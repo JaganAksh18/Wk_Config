@@ -2,6 +2,7 @@
   "name": "react-project",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://JaganAksh18.github.io/Wk_Config/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
